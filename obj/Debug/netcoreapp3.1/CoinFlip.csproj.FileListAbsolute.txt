@@ -1,0 +1,13 @@
+C:\Users\Knut\Documents\Div_leking\CSharp\CoinFlip\bin\Debug\netcoreapp3.1\CoinFlip.exe
+C:\Users\Knut\Documents\Div_leking\CSharp\CoinFlip\bin\Debug\netcoreapp3.1\CoinFlip.deps.json
+C:\Users\Knut\Documents\Div_leking\CSharp\CoinFlip\bin\Debug\netcoreapp3.1\CoinFlip.runtimeconfig.json
+C:\Users\Knut\Documents\Div_leking\CSharp\CoinFlip\bin\Debug\netcoreapp3.1\CoinFlip.runtimeconfig.dev.json
+C:\Users\Knut\Documents\Div_leking\CSharp\CoinFlip\bin\Debug\netcoreapp3.1\CoinFlip.dll
+C:\Users\Knut\Documents\Div_leking\CSharp\CoinFlip\bin\Debug\netcoreapp3.1\CoinFlip.pdb
+C:\Users\Knut\Documents\Div_leking\CSharp\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.csprojAssemblyReference.cache
+C:\Users\Knut\Documents\Div_leking\CSharp\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.csproj.CoreCompileInputs.cache
+C:\Users\Knut\Documents\Div_leking\CSharp\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.AssemblyInfoInputs.cache
+C:\Users\Knut\Documents\Div_leking\CSharp\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.AssemblyInfo.cs
+C:\Users\Knut\Documents\Div_leking\CSharp\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.dll
+C:\Users\Knut\Documents\Div_leking\CSharp\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.pdb
+C:\Users\Knut\Documents\Div_leking\CSharp\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.genruntimeconfig.cache
